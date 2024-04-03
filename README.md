@@ -25,11 +25,13 @@
 * ‧偵測姿勢: https://github.com/jerryhouuu/Face-Yaw-Roll-Pitch-from-Pose-Estimation-using-OpenCV  
 簡單來說就是將臉部特徵偵測到的68個點，由2D座標轉3D標，得到roll、pitch、yaw三個參數  
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671596051339.jpg)  
-![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/image001.png)  
-## Hardware
-*  OS: Ubuntu 16.04 (18.04 may also work) or Windows 10 64bits or MacOS
-*  (Optional but recommended) An NVIDIA GPU (tested with CUDA 9.0, 10.0 and 10.1, but may also work with other versions)
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/image001.png)
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/42539163-2b91-4691-9532-42c9a0b38505)  
 
+## 2.將結果傳至Unity上  
+*  利用TCP協定  
+**  Python-客服端-rpy ⮕ Unity-伺服器-port  
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671598207847.jpg)  
 ## Software
 *  Python3.x (installation via [Anaconda](https://www.anaconda.com/distribution/) is recommended; **mandatory for Windows users**)
    * (Optional) It is recommended to use conda environments. Run `conda create -n vtuber python=3.6`. Activate it by `conda activate vtuber`.
