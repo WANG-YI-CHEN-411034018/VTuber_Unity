@@ -11,13 +11,13 @@
 3.將結果反應到人物上和UI設計      
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1712161797340.jpg)  
 ## 偵測臉部特徵點  
-臉部特徵偵測分為三步驟
-‧找到人臉
-‧偵測特徵點
+臉部特徵偵測分為三步驟  
+‧找到人臉  
+‧偵測特徵點  
 ‧偵測姿勢   
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/76155992-31e9-43db-918b-d8263ef80589)
 *‧找到人臉: https://github.com/yinguobing/head-pose-estimation  
-![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671594929004.jpg)  
-![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/76155992-31e9-43db-918b-d8263ef80589)   
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671594929004.jpg)     
 *‧偵測特徵點: https://github.com/1adrianb/face-alignment  
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671596722858.jpg)  
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/8b434b8f-7682-416b-90ed-b1db78453936)
