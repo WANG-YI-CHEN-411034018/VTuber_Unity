@@ -10,12 +10,18 @@
 2.將結果傳至Unity上----C#  
 3.將結果反應到人物上和UI設計      
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1712161797340.jpg)  
-# 偵測臉部特徵點  
+## 偵測臉部特徵點  
 臉部特徵偵測分為三步驟
 ‧找到人臉
 ‧偵測特徵點
-‧偵測姿勢
-![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/76155992-31e9-43db-918b-d8263ef80589)
+‧偵測姿勢   
+*‧找到人臉: https://github.com/yinguobing/head-pose-estimation  
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671594929004.jpg)  
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/76155992-31e9-43db-918b-d8263ef80589)   
+*‧偵測特徵點: https://github.com/1adrianb/face-alignment  
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671596722858.jpg)  
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/8b434b8f-7682-416b-90ed-b1db78453936)
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/image2.png)  
 ## Hardware
 *  OS: Ubuntu 16.04 (18.04 may also work) or Windows 10 64bits or MacOS
 *  (Optional but recommended) An NVIDIA GPU (tested with CUDA 9.0, 10.0 and 10.1, but may also work with other versions)
