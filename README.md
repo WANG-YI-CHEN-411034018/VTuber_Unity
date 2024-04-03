@@ -31,7 +31,8 @@
 ## 2.將結果傳至Unity上  
 *  利用TCP協定  
 **  Python-客服端-rpy ⮕ Unity-伺服器-port  
-![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671598207847.jpg)  
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671598207847.jpg)
+傳送參數後Unity會執行C#程式碼，來讓我們人物的皮動起來
 ## Software
 *  Python3.x (installation via [Anaconda](https://www.anaconda.com/distribution/) is recommended; **mandatory for Windows users**)
    * (Optional) It is recommended to use conda environments. Run `conda create -n vtuber python=3.6`. Activate it by `conda activate vtuber`.
