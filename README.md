@@ -38,4 +38,4 @@
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/935d8c0c-2474-4491-9d4d-c135d2af1e8b)  
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1712165867651.jpg)  
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1712165882029.jpg)  
-
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/debug_gpu_connect.gif)  
