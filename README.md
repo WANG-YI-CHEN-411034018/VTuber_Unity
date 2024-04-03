@@ -22,6 +22,10 @@
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671596722858.jpg)  
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/8b434b8f-7682-416b-90ed-b1db78453936)
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/image2.png)  
+*‧偵測姿勢: https://github.com/jerryhouuu/Face-Yaw-Roll-Pitch-from-Pose-Estimation-using-OpenCV  
+簡單來說就是將臉部特徵偵測到的68個點，由2D座標轉3D標，得到roll、pitch、yaw三個參數  
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671596051339.jpg)  
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/image001.png)  
 ## Hardware
 *  OS: Ubuntu 16.04 (18.04 may also work) or Windows 10 64bits or MacOS
 *  (Optional but recommended) An NVIDIA GPU (tested with CUDA 9.0, 10.0 and 10.1, but may also work with other versions)
