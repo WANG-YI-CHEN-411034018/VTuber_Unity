@@ -15,7 +15,7 @@
 ‧找到人臉  
 ‧偵測特徵點  
 ‧偵測姿勢   
-![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/76155992-31e9-43db-918b-d8263ef80589)
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/76155992-31e9-43db-918b-d8263ef80589)  
 *‧找到人臉: https://github.com/yinguobing/head-pose-estimation  
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1671594929004.jpg)     
 *‧偵測特徵點: https://github.com/1adrianb/face-alignment  
