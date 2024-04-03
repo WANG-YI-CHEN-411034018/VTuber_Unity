@@ -4,15 +4,18 @@
 [![teaser](images/teaser.jpg)](https://www.youtube.com/playlist?list=PLDV2CyUo4q-JFGrpG595jMdWZLwYOnu4p)
 
 --------------------------------------------------------------------------------
-# 偵測臉部特徵點
-*臉部特徵偵測分為三步驟  
-‧找到人臉  
-‧偵測特徵點  
-‧偵測姿勢  
+# Vtuber實作
+主要流程
+1.偵測臉部特徵點----Python  
+2.將結果傳至Unity上----C#  
+3.將結果反應到人物上和UI設計      
 ![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1712161797340.jpg)  
-
-# Installation
-
+# 偵測臉部特徵點  
+臉部特徵偵測分為三步驟
+‧找到人臉
+‧偵測特徵點
+‧偵測姿勢
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/76155992-31e9-43db-918b-d8263ef80589)
 ## Hardware
 *  OS: Ubuntu 16.04 (18.04 may also work) or Windows 10 64bits or MacOS
 *  (Optional but recommended) An NVIDIA GPU (tested with CUDA 9.0, 10.0 and 10.1, but may also work with other versions)
