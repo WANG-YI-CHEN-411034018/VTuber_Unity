@@ -9,7 +9,7 @@
 ‧找到人臉  
 ‧偵測特徵點  
 ‧偵測姿勢  
-
+![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/blob/master/images/1712161797340.jpg)  
 
 # Installation
 
