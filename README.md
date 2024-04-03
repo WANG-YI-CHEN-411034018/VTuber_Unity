@@ -1,4 +1,4 @@
-![image](https://github.com/WANG-YI-CHEN-411034018/VTuber_Unity/assets/136084973/c61d6f7b-8cac-48b8-98db-56249e52aed8)# VTuber_Unity
+# VTuber_Unity
 
 ## 原文章:https://github.com/kwea123/VTuber_Unity?tab=readme-ov-file  
 [![teaser](images/teaser.jpg)](https://www.youtube.com/playlist?list=PLDV2CyUo4q-JFGrpG595jMdWZLwYOnu4p)
