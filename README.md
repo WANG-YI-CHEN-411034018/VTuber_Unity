@@ -1,19 +1,15 @@
 # VTuber_Unity
 
-## 原文章:https://github.com/kwea123/VTuber_Unity?tab=readme-ov-file
+## 原文章:https://github.com/kwea123/VTuber_Unity?tab=readme-ov-file  
 [![teaser](images/teaser.jpg)](https://www.youtube.com/playlist?list=PLDV2CyUo4q-JFGrpG595jMdWZLwYOnu4p)
 
 --------------------------------------------------------------------------------
-# Credits
-First of all, I'd like to give credits to the following projects that I borrow code from:
+# 偵測臉部特徵點
+*臉部特徵偵測分為三步驟  
+‧找到人臉  
+‧偵測特徵點  
+‧偵測姿勢  
 
-| Project | LICENSE |
-|:---:|----|
-| [head-pose-estimation](https://github.com/yinguobing/head-pose-estimation) | [LICENSE](licenses/LICENSE.head-pose-estimation) |
-| [face-alignment](https://github.com/1adrianb/face-alignment) | [LICENSE](licenses/LICENSE.face-alignment) |
-| [GazeTracking](https://github.com/antoinelame/GazeTracking) | [LICENSE](licenses/LICENSE.GazeTracking) |
-
-And the virtual character [unity-chan](http://unity-chan.com/) © UTJ/UCL.
 
 # Installation
 
